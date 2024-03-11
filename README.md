@@ -1,4 +1,4 @@
-Strong Password Generator
+<h1>Strong Password Generator</h1>
 Overview
 This is a simple command-line utility written in JavaScript for generating strong and secure passwords. The password generator utilizes a combination of uppercase and lowercase letters, numbers, and special characters to create robust passwords that enhance security.
 
